@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 <h1 align="center">Hi 👋, I'm Mohamad Zulistiyan</h1>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzulistiyan&theme=transparent&show_icons=true)
