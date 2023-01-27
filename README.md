@@ -8,7 +8,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzulistiyan&theme=transparent&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzulistiyan&theme=transparent&layout=compact)
 
-[![Readme Card]<h3 align="left">Self Project</h3>(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="left">
