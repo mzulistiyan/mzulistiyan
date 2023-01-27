@@ -11,6 +11,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=flutter-myskin-application&theme=transparent)](https://github.com/mzulistiyan/flutter-myskin-application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=Myskin-backend&theme=transparent)](https://github.com/mzulistiyan/Myskin-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=flutter-Singkatin&theme=transparent)](https://github.com/mzulistiyan/flutter-Singkatin)
 
 
 
