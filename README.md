@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mohamad Zulistiyan</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
-![mzulistiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzulistiyan&show_icons=true&theme=transparent)
+![mzulistiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzulistiyan&show_icons=true&theme=nightowl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
