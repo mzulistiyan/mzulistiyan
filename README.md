@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamad Zulistiyan</h1>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzulistiyan&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzulistiyan&theme=transparent&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzulistiyan&theme=dark&layout=compact)
 <h3 align="left">Self Project</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=flutter-myskin-application&theme=transparent)](https://github.com/mzulistiyan/flutter-myskin-application)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=Myskin-backend&theme=transparent)](https://github.com/mzulistiyan/Myskin-backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=flutter-Singkatin&theme=transparent)](https://github.com/mzulistiyan/flutter-Singkatin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=Flutter-Marketplace&theme=transparent)](https://github.com/mzulistiyan/Flutter-Marketplace)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=Flutter-Airplane-With-Firebase&theme=transparent)](https://github.com/mzulistiyan/Flutter-Airplane-With-Firebase)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=Flutter-ChatApp-Realtime&theme=transparent)](https://github.com/mzulistiyan/Flutter-ChatApp-Realtime)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=flutter-myskin-application&theme=dark)](https://github.com/mzulistiyan/flutter-myskin-application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=Myskin-backend&theme=dark)](https://github.com/mzulistiyan/Myskin-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=flutter-Singkatin&theme=dark)](https://github.com/mzulistiyan/flutter-Singkatin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=Flutter-Marketplace&theme=dark)](https://github.com/mzulistiyan/Flutter-Marketplace)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=Flutter-Airplane-With-Firebase&theme=dark)](https://github.com/mzulistiyan/Flutter-Airplane-With-Firebase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mzulistiyan&repo=Flutter-ChatApp-Realtime&theme=dark)](https://github.com/mzulistiyan/Flutter-ChatApp-Realtime)
 
 
 
